@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @lifehsiwu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m working in NLP, CV, Quantitative
+  - CV: Object Detection
+  - NLP: Text Classification
+  - Quantitative: EUR/USD, EUR?GBP
+- 🌱 I’m currently learning ML, DL
+- 💞️ I’m looking to collaborate on ML, DL
 
 <!---
 lifehsiwu/lifehsiwu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
